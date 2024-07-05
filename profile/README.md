@@ -66,4 +66,8 @@ We are a community-driven platform, and your feedback is invaluable to us. Join 
 
 Website: [pumpfaxt.com](pumpfaxt.com)
 
-Faucet: [pumpfaxt.com/faucet](faucet.pumpfaxt.com)
+Faucet: [faucet.pumpfaxt.com](pumpfaxt.com/faucet)
+
+## Team
+@jriyyya
+@marsian83
